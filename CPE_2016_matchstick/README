@@ -1,0 +1,15 @@
+/*
+** README for github in /home/Rev/epitech_project_git/CPE_2016_matchstick
+** 
+** Made by Roméo Nahon
+** Login	 <Rev@epitech.net>
+** 
+** Started on	Wed Apr	5 17:34:56 2017 Roméo Nahon
+** Last update	Wed Apr	5 17:34:56 2017 Roméo Nahon
+*/
+
+Ce jeu est compatible avec linux, ouvre votre terminal et lancer le binaire.
+si celui n'apparait pas, executez "make re".
+exemple:
+./matchstick [nombre de ligne] [nombre d'alumette max a retirer]
+-> ./matchstick 10 5
